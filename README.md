@@ -1,3 +1,1 @@
-
-
 # Hand-tracking-using-mediapipe
