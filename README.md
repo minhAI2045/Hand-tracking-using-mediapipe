@@ -1,2 +1,2 @@
 
-and-tracking-using-mediapipe
+Hand-and-tracking-using-mediapipe
